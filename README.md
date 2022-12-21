@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Fabio Mazucato's Github Stats](https://github-readme-stats.vercel.app/api?username=fabiomazucato&hide=["issues"]&show_icons=true)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%fabiomazucato&countColor=%23263759&style=plastic)
+
 <!--
 **fabiomazucato/fabiomazucato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
