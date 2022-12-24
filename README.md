@@ -10,4 +10,3 @@ Trabalho desenvolvendo aplicativos de classe mundial usando tecnologias JavaScri
 ##
 ![Fabio Mazucato's Github Stats](https://github-readme-stats.vercel.app/api?username=fabiomazucato&hide=["issues"]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%fabiomazucato&countColor=%23263759&style=plastic)
